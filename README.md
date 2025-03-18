@@ -47,8 +47,8 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 ### Policy 2:
 
+![Screenshot 2025-03-18 084456](https://github.com/user-attachments/assets/7867dde1-bff8-46b7-b94e-7e971bc60896)
 
-![p2](https://github.com/user-attachments/assets/78dce806-eeb7-466d-821d-de7803fa55d7)
 
 
 
